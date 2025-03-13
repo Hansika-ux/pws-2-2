@@ -63,7 +63,3 @@ int main(){
         }
         printf("%d",time);
 }
-//A group of walkers arrives at a river in the night. They want to cross a bridge, which can hold a limited number of walkers at a time. The walkers have just one torch, which needs to be used when crossing the bridge. Each walker takes a certain time to cross; a group crossing together must walk at the slowest walker’s pace. What is the shortest time it takes for all walkers to cross the bridge?
-//For example, Sample Input 1 assumes the bridge can hold 2 walkers at a time and there are 4 walkers with crossing times 1 minute, 2 minutes, 5 minutes and 10 minutes, respectively. The shortest time of 17 minutes can be achieved.
-//Input Constraints:
-//n (2 ≤ n ≤ 104) is the number of walkers, and c (2 ≤ c ≤ 104) is the number of walkers the bridge can hold at a time.
